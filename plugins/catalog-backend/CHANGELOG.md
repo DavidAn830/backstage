@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-backend
 
+## 1.1.0-next.2
+
+### Minor Changes
+
+- bf82edf4c9: Added `/validate-entity` endpoint
+
 ## 1.1.0-next.1
 
 ### Minor Changes

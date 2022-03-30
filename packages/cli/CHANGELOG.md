@@ -1,5 +1,11 @@
 # @backstage/cli
 
+## 0.17.0-next.2
+
+### Patch Changes
+
+- 4782f9e925: Fixed misleading log message during frontend plugin creation.
+
 ## 0.17.0-next.1
 
 ### Minor Changes
